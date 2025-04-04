@@ -1,0 +1,21 @@
+{
+  "name": "تعلم الحروف",
+  "short_name": "حروفي",
+  "description": "تطبيق لتعليم الأطفال الحروف الأبجدية باللغات العربية، الفرنسية، والإنجليزية.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ff4e50",
+  "theme_color": "#f9d423",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
